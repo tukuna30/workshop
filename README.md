@@ -1,3 +1,3 @@
 # workshop for CSS
 
-Playing with CSS properties
+Interacting with CSS, JS and other libraries
